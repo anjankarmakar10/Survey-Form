@@ -1,0 +1,86 @@
+#3B3B89
+#262645
+#30304B
+
+
+ freeCodeCamp Survey Form
+     
+     Thank you for taking the time to help us improve the platform
+      
+   
+      Name
+         
+      Email
+          
+
+    
+  Age (optional)
+          
+
+
+
+       
+            Which option best describes your current role?
+        
+ 
+        Select current role
+             value="Student">Student
+            value="Full Time Job">Full Time Job
+             value="Full Time Learner">Full Time Learner
+        value="Prefer not to say">Prefer not to say
+Other
+
+  
+
+      Would you recommend freeCodeCamp to a friend?
+         
+              Definitely
+           
+              Maybe
+           
+              Not Sure
+         
+
+        
+            What is your favorite feature of freeCodeCamp?
+          
+ Select an option
+        Challenges
+    Projects
+    Community
+  Open Source
+    Other
+          
+
+ 
+   What would you like to see improved? (Check all that apply)
+     
+          
+          
+              Front-end Projects
+            
+              Back-end Projects
+            
+    Data Visualization
+     
+Challenges
+
+    
+    Open Source Community
+           
+    Gitter help rooms
+       
+ 
+   
+            City
+              Meetups
+           
+ Wiki
+           
+       Forum
+    
+    
+  
+            Additional Courses
+          
+        Any comments or suggestions?
